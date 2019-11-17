@@ -1,0 +1,12 @@
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\DesktopClient.exe
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\obj\Debug\netcoreapp3.0\DesktopClient.csprojAssemblyReference.cache
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\obj\Debug\netcoreapp3.0\DesktopClient.AssemblyInfoInputs.cache
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\obj\Debug\netcoreapp3.0\DesktopClient.AssemblyInfo.cs
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\System.Web.Mvc.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\System.Web.Razor.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\System.Web.Helpers.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\System.Web.WebPages.Deployment.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\System.Web.WebPages.Razor.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\System.Web.WebPages.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\bin\Debug\netcoreapp3.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikkels bærbar\Desktop\github\3rdSemesterDrengern\Auktionigen\DesktopClient\obj\Debug\netcoreapp3.0\DesktopClient.csproj.CopyComplete
